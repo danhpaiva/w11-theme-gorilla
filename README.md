@@ -1,10 +1,10 @@
 <h1 align="center">
-<a href="https://github.com/danhpaiva/w11-theme-macos-ventura-dark">A beautiful Mac Os Ventura theme</a>
+<a href="https://github.com/danhpaiva/w11-theme-gorilla">A theme from the Brazilian "dopamine reservoir" community</a>
 </h1>
 
 <p align="center">
   <a href="#">
-    <img src="src\logo.png" width="500" alt="Mac Os Ventura Theme for Windows 11">
+    <img src="src\logo.png" width="500" alt="Logo">
   </a>
 </p>
 
@@ -42,4 +42,4 @@ The following technologies were used in this project:
 Developed by <a href="https://www.linkedin.com/in/danhpaiva/">Daniel Paiva</a>
 
 <h2 id=licence>🆓 Licence</h2>
-This project is under license: <a href="https://github.com/danhpaiva/w11-theme-macos-ventura-dark/blob/main/LICENSE">MIT</a>
+This project is under license: <a href="https://github.com/danhpaiva/w11-theme-gorilla/blob/main/LICENSE">MIT</a>
